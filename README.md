@@ -47,8 +47,8 @@ Now you can run the application on your PC.
 
 ## Controls
 `W` `A` `S` `D` keys for movements.  
-`Spacebar` key for pausing the game.
-`1` `2` keys to change weapons.
+`Spacebar` key for pausing the game.  
+`1` `2` keys to change weapons.  
 `Left mouse button` fire weapons.
 
 ## Setting
